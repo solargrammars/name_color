@@ -1,0 +1,5 @@
+python-colourlovers
+colormath
+torchtext
+tensorboardX
+torch
